@@ -1,0 +1,21 @@
+.imgstyle{
+    height: 90%;
+    width: 95%;
+    margin: auto;
+}
+
+.main{
+    margin: 5% 3%;
+}
+
+.fontStyle{
+    font-size: 52px;
+}
+
+.content{
+    width: 100%;
+}
+
+.col{
+    color: #ff914d;
+}
